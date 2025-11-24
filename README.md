@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prasad-pm04/Prasad-pm04/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prasad-pm04/Prasad-pm04/main/banner.png" width="70%" />
 </p>
 
 <h1 align="center">Hi, I'm Prasad 👋</h1>
